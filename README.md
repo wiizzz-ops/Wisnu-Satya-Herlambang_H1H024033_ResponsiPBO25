@@ -1,7 +1,7 @@
 Responsi Praktikum PBO Teknik Komputer 2025
 
-Nama Lengkap: [TULIS NAMA LENGKAP KAMU]
-NIM: [TULIS NIM KAMU]
+Nama Lengkap: Wisnu Satya Herlambang
+NIM: H1H024033
 Shift: A - D 
 
 Deskripsi Proyek
