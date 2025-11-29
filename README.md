@@ -22,7 +22,7 @@ Penerapan Konsep OOP
 Cara Menjalankan Aplikasi
 1.  Pastikan Laragon sudah terinstall dan Web Server (Apache) berjalan.
 2.  Pstikan folder repository ini ada dalam direktori server (`www`).
-    Path: `C:\laragon\www\RESPONSI`
+    Path: `D:\laragon\www\RESPONSI`
 3.  Buka 'Laragon' lalu 'Start All'
 4.  Klik kanan pada bagian kosong, klik 'www', lalu pilih file 'RESPONSI'
 5.  Aplikasi sudah bisa dipakai
