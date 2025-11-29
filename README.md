@@ -29,3 +29,8 @@ Cara Menjalankan Aplikasi
 
 Demo Aplikasi
 Berikut adalah demonstrasi penggunaan fitur Latihan dan melihat Riwayat:
+
+
+
+https://github.com/user-attachments/assets/72bdfc5b-95d8-4269-9e95-1ba15fa270e4
+
